@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\nonarnio큦\desktop\tp 4 arreglos 1\pila.c
+	"pila.h"
+
+1490112217 c:\users\nonarnio큦\desktop\tp 4 arreglos 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1589072654 source:c:\users\nonarnio큦\desktop\tp 4 arreglos 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1589072654 source:c:\users\nonarnio큦\desktop\tp큦 prog\tp 4 arreglos 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1490112217 c:\users\nonarnio큦\desktop\tp큦 prog\tp 4 arreglos 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\nonarnio큦\desktop\tp큦 prog\tp 4 arreglos 1\pila.c
+	"pila.h"
+
+1490112217 source:c:\users\mosta\desktop\facultad\tp큦 prog\tp 4 arreglos 1\pila.c
+	"pila.h"
+
+1490112217 c:\users\mosta\desktop\facultad\tp큦 prog\tp 4 arreglos 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1589742771 source:c:\users\mosta\desktop\facultad\tp큦 prog\tp 4 arreglos 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1490112217 source:c:\users\usuario\onedrive\parciales progra 1캽uatri\tp's progra\tp 4 arreglos\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\onedrive\parciales progra 1캽uatri\tp's progra\tp 4 arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
